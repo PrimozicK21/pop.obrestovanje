@@ -1,3 +1,3 @@
 # pop.obrestovanje
 
-Vaja iz Excela o **navadnem** in **obrestnem** obrestovanju.
+Vaja iz *Excela* o **navadnem** in **obrestnem** obrestovanju.
